@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a passionate student learning front-end develo
 
 ## 📫 How to Reach Me
 
-- **Email**: abdelrahman.kh.992@gmail.com
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdelrahman.kh.992@gmail.com)
 
 <!--## 🌱 Fun Fact
 
